@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	
-	"github.com/acerio98/stringutil"
+
+	"github.com/user/stringutil"
 )
 
-func main(){
+func main() {
 	fmt.Printf(stringutil.Reverse("!oG ,olleH"))
 }
